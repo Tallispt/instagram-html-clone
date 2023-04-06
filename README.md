@@ -1,6 +1,6 @@
 # Instagram Feed HTML Clone
 
-This is a simple project that simulates a responsive Instagram feed using HTML, CSS, and JavaScript. The page is designed to look and feel like the official Instagram feed, complete with a header, a search bar, and a grid of photos.
+This is a simple project that clones a responsive Instagram feed using HTML and CSS. The page is designed to look and feel like the official Instagram feed, complete with a header, a search bar, and a grid of photos.
 
 ## Technologies Used
 - HTML
